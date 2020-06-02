@@ -1,0 +1,28 @@
+.my-font {
+    color: red
+}
+
+.carousel-image {
+    object-fit: cover;
+}
+
+.custom-dot-group {
+    width:100% !important;
+    position: absolute;
+    bottom: 10px;
+}
+
+.dot-button {
+    background: rgba(0,0,0,.6) !important;
+    color: #e0e1e2 !important;
+}
+
+.dot-button:hover {
+    background-color: #cacbcd !important;
+    box-shadow: 0 0 0 1px transparent inset, 0 0 0 0 rgba(34,36,38,.15) inset !important;
+    color: rgba(0,0,0,.8) ;
+}
+
+
+.myCarouselContainer {
+}

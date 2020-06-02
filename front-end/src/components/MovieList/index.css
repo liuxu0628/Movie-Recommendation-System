@@ -1,0 +1,11 @@
+.movie-gallery {
+    max-width: 1100px;
+    margin:20px 0px
+}
+
+
+.list-title {
+    font-size: 2em;
+    margin:20px 0px;
+    font-weight: 300;
+  }

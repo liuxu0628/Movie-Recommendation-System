@@ -1,0 +1,39 @@
+
+
+.sweet-loading {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index:100
+}
+
+.smallSpan {
+  font-weight: 400;
+  font-size: 14px;
+  color: #ff00ab;
+  margin: 0 0 0 20px;
+}
+
+
+.statIcon {
+  margin: 20px 0!important;
+  font-size: 32px!important;
+  display: flex;
+  margin-bottom: 15px;
+  color: #fff;
+}
+
+.revenueIcon {
+  margin: 20px 10px!important;
+  font-size: 32px!important;
+  display: flex;
+  margin-bottom: 15px;
+  color: #fff;
+}
+
+.statInfo {
+  font-size: 32px!important;
+  margin: 0px 10px;
+  align-items: center;
+}
