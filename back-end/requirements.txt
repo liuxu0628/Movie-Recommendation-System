@@ -10,7 +10,7 @@ djangorestframework-jwt==1.11.0
 djoser==2.0.3
 joblib==0.14.1
 mysqlclient==1.4.6
-numpy==1.18.1
+numpy==1.22.0
 pandas==0.25.3
 py4j==0.10.7
 pycparser==2.19
