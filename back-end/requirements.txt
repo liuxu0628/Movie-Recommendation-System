@@ -8,7 +8,7 @@ django-templated-mail==1.1.1
 djangorestframework==3.11.0
 djangorestframework-jwt==1.11.0
 djoser==2.0.3
-joblib==0.14.1
+joblib==1.2.0
 mysqlclient==1.4.6
 numpy==1.18.1
 pandas==0.25.3
